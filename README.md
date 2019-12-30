@@ -1,5 +1,5 @@
 # Genius
-The famous Simon game (also known as Genius in Brazil). But this game has three different levels: easy, medium and hard (each one has a different feature, making it harder than the original :smiling_imp:).
+The famous Simon game (also known as Genius in Brazil). But this game has three different levels: easy, medium and hard (each one has a different feature, making it harder than the original game!!!).
 
 ## What is it?
 Simon is an electronic game of memory skill. The device creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over. (Source: [Wikipedia]).
